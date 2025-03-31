@@ -1,0 +1,15 @@
+{
+    "name": "enermind-website",
+    "version": "1.0.0",
+    "description": "Enermind Smart Energy Management Website",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.7",
+        "express": "^4.18.2",
+        "nodemailer": "^6.9.7"
+    }
+}
